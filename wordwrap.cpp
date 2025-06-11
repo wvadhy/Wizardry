@@ -1,8 +1,3 @@
-//
-// Created by DrMark on 10/2/2017.
-// Updated by Dr Abusaleh Jabir
-
-
 //#include <cstdint>
 #include <iterator>
 #include <iostream>
