@@ -1,7 +1,3 @@
-//
-// Created by DrMark on 10/2/2017.
-//
-
 #ifndef TEXTADV_WORDWRAP_H
 #define TEXTADV_WORDWRAP_H
 
